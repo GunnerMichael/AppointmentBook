@@ -1,2 +1,3 @@
-# AppointmentBook
+# Appointment Book
+
 Sample Appointment Book
